@@ -129,6 +129,10 @@ const controlAddRecipe = async function (newRecipe) {
   }
 };
 
+const newFeature = function() {
+  console.log('Welcome to the application!');
+}
+
 // rendering recipe on hashchange and load event
 // Event handling in MVC: Publisher-subsriber design pattern
 const init = function () {
