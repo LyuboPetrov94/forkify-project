@@ -9,7 +9,6 @@ import AddRecipeView from './views/addRecipeView.js';
 
 import 'core-js/stable';
 import 'regenerator-runtime/runtime';
-import { control } from 'leaflet';
 import addRecipeView from './views/addRecipeView.js';
 
 if (module.hot) {
